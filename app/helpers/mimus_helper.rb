@@ -1,0 +1,2 @@
+module MimusHelper
+end
