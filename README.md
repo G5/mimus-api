@@ -1,7 +1,7 @@
 # mimus-api
 mock api endpoints insanely fast
 
-inspired by http://myjson.com/ , but gives us control of our data
+inspired by http://myjson.com/ but gives us control of our data
 
 # README
 
